@@ -1,4 +1,5 @@
-# Dracula for [WOB](https://github.com/francma/wob)
+# Dracula for [WOB](https://github.com/francma/wob) (Migrated to https://github.com/dracula/wob)
+
 > A dark theme for [WOB](https://github.com/francma/wob)
 
 ![Screenshot](./screenshot.png)
